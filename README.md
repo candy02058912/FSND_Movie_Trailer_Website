@@ -1,6 +1,8 @@
 # FSND Movie Trailer Website
 Udacity's FSND Project: Movie Trailer Website
 
+Demo: https://candy02058912.github.io/FSND_Movie_Trailer_Website/fresh_tomatoes.html
+
 Getting Started
 ---------------
 
